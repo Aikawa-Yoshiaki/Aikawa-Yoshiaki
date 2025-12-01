@@ -1,6 +1,9 @@
 ## Hi there 👋
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aikawa-Yoshiaki&theme=moltack)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aikawa-Yoshiaki&theme=moltack&locale=ja)
+
+## most-commit-language
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aikawa-Yoshiaki&theme=moltack&locale=ja)
 
 ## Programming Languages
 <img src="https://skillicons.dev/icons?i=java,html,css,js" /> <br /><br />
