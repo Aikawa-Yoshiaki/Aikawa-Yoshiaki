@@ -9,11 +9,6 @@
 ## DB and Dev Tools etc
 <img src="https://skillicons.dev/icons?i=aws,azure,eclipse,git,github,gradle,linux,maven,mysql,postgres,vscode,windows" /> <br /><br />
 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aikawa-Yoshiaki&show_icons=true&locale=ja&layout=compact&theme=chartreuse-dark" alt="Top Languages" /></p>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Aikawa-Yoshiaki&show_icons=true&locale=ja&theme=chartreuse-dark" alt="GitHub Stats" width="410" /></p>
-
 <img src="https://github-profile-trophy.vercel.app/?username=Aikawa-Yoshiaki&theme=juicyfresh&no-bg=true" />
 
 <!--
