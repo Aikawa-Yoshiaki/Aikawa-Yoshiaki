@@ -1,5 +1,16 @@
 ## Hi there 👋
 
+![](https://github-readme-stats.vercel.app/api/top-langs?username=Aikawa-Yoshiaki)
+
+## Programming Languages
+<img src="https://skillicons.dev/icons?i=java,html,css,js" /> <br /><br />
+
+## Frameworks and Library
+<img src="https://skillicons.dev/icons?i=spring" /> <br /><br />
+
+## DB and Dev Tools etc
+<img src="https://skillicons.dev/icons?i=aws,azure,eclipse,git,github,gradle,linux,maven,mysql,postgres,vscode,windows" /> <br /><br />
+
 <!--
 **Aikawa-Yoshiaki/Aikawa-Yoshiaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
