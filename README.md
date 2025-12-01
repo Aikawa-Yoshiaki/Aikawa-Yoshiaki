@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Aikawa-Yoshiaki)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aikawa-Yoshiaki&theme=moltack)
 
 ## Programming Languages
 <img src="https://skillicons.dev/icons?i=java,html,css,js" /> <br /><br />
