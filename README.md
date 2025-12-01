@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![](https://github-readme-stats.vercel.app/api/top-langs?username=yukimura-manase)
+
 ## Programming Languages
 <img src="https://skillicons.dev/icons?i=java,html,css,js" /> <br /><br />
 
