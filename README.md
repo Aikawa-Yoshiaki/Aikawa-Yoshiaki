@@ -1,6 +1,8 @@
 ## Hi there 👋
 
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aikawa-Yoshiaki&show_icons=true&locale=ja&layout=compact&theme=chartreuse-dark" alt="Top Languages" /></p>
+
 
 ## Programming Languages
 <img src="https://skillicons.dev/icons?i=java,html,css,js" /> <br /><br />
